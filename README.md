@@ -1,13 +1,25 @@
 # 💫 Hi 👋, I'm Niranjan Lonkar
-**Aspiring Developer || Diploma Student in Computer Technology**
+**Aspiring Data Scientist | AI & Machine Learning Enthusiast | Computer Science Graduate**
 
-Email Me 👉 ✉️ **niranjan.lonkar.1919@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **niranjan.lonkar.1919@gmail.com** 
+🤝 Open to: Collaborations, open-source contributions, and exciting project opportunities.
+
 # 💫 About Me:
--  🔭 I'm currently a 5th-semester Diploma student in Computer Technology.
--  🤖 Passionate about AI and turning ideas into real tech.
--  🗣 Learning German to open up global tech opportunities and explore European culture.
--  💡I enjoy working on side projects and dreaming up unique ideas.
+- 🎓 I recently completed my Diploma in Computer Technology and am preparing to pursue a B.Tech degree.
 
+- 🤖 Passionate about Artificial Intelligence, Machine Learning, and Data Science, with a strong interest in building practical, real-world applications.
+
+- 💻 I enjoy developing projects that solve meaningful problems while continuously improving my programming and software development skills.
+
+- 🌱 Currently expanding my knowledge in Python, Machine Learning, Data Science, Flask, and modern AI technologies.
+  
+- 🗣️ Learning German to broaden my global career opportunities and explore European culture.
+
+- 🚀 Always eager to learn new technologies, collaborate with developers, and contribute to innovative projects.
+
+- ⚡ Fun Fact
+
+     I enjoy transforming ideas into real applications and believe the best way to learn is by building projects.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/niranjan-lonkar1919) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:niranjan.lonkar.1919@gmail.com) 
 
